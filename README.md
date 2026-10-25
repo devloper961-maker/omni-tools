@@ -111,7 +111,7 @@ services:
 
 ## Contribute
 
-This is a React Project with Typescript Material UI. We use icons from [Iconify](https://icon-sets.iconify.design)
+This is a React project built with TypeScript and Material UI. We use icons from [Iconify](https://icon-sets.iconify.design)
 
 ### Project setup
 
@@ -149,7 +149,7 @@ npm run test:e2e
 ```
 
 ### i18n (Translations)
-The translation files are [here](public/locales). Only edit these if you are a developer. For non developers, use [Locize](https://www.locize.app/register?invitation=YOIH0Dyz3KHh3uQFCGYe9v1QOUoq8W5ySgmlwjX9cSypeJmt8F40brDtVbXb71fK).
+The translation files are [here](public/locales). Only edit these if you are a developer. For non-developers, use [Locize](https://www.locize.app/register?invitation=YOIH0Dyz3KHh3uQFCGYe9v1QOUoq8W5ySgmlwjX9cSypeJmt8F40brDtVbXb71fK).
 
 <!-- I18N-COVERAGE:START -->
 | Language | Translation status | Missing keys |
